@@ -58,7 +58,14 @@ let human = 'Humoyun' //string
 console.log(human.length) //7
 
 
-let x = '3'
-let y = '2'
+// let x = '3'
+// let y = '2'
 
-x + y // 32
+// x + y // 32
+
+let z = 'cs,cdcscdcscds\nceccsdcsdcsc\n' // new paragraph with (\n)
+console.log(z)
+
+let x = 'you can\'t do this' 
+console.log(x)
+
