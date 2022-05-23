@@ -14,3 +14,7 @@ true // boolen
 false // also boolen
 null // Absence of an object
 
+// Reserved Words
+/* reserved words must not be used as the manes of const, var, 
+function or class */
+
