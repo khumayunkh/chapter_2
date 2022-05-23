@@ -1,0 +1,16 @@
+.container{
+    width:80%;
+    margin: 0 auto;
+}
+
+.header_in{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
